@@ -123,12 +123,11 @@ npx prettier --write _data/*/*.json
  * [MESC](https://paradigmxyz.github.io/mesc)
 
 ### Explorers
- * [Otterscan](https://otterscan.io)
+ * [Pione Scan](https://pionescan.com/)
+ * [Zero Scan](https://zeroscan.org)
 
 ### Wallets
- * [WallETH](https://walleth.org)
- * [TREZOR](https://trezor.io)
- * [Minerva Wallet](https://minerva.digital)
+ * [Pione Wallet](https://pionewallet.com/)
 
 ### EIPs
  * EIP-155
@@ -150,6 +149,7 @@ npx prettier --write _data/*/*.json
  * [chainlist.simplr.sh - Info packaged single pager](https://chainlist.simplr.sh)
 
 ### Other
+ * [Faucet PZO - ZeroChain](https://dex.pionechain.com/testnet/faucet/)
  * [FaucETH](https://github.com/komputing/FaucETH)
  * [Sourcify playground](https://playground.sourcify.dev)
  * [Smart Contract UI](https://xtools-at.github.io/smartcontract-ui)
